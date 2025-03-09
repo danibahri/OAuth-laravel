@@ -6,6 +6,8 @@ Yang mau mempelajarinya bisa juga menggunakan, dan clone repositori :
 git clone https://github.com/danibahri/OAuth-laravel.git
 ```
 
+Setelah clone jangan lupa untuk install composer terlebih dahulu
+
 ```bash
 composer install
 ```
@@ -16,4 +18,10 @@ php artisan key:generate
 
 ```bash
 php artisan migrate
+```
+
+untuk menjalankan website :
+
+```bash
+php artisan ser
 ```
